@@ -3,3 +3,7 @@ yeori977@gmail.com
 
 Baseball
 
+This is second commit.
+
+Favorite food is Ramen.
+
